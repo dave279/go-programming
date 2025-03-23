@@ -13,6 +13,9 @@ func UseCount(s string) map[string]int {
 	return m
 }
 
-func Count(s string) int {
-	// write the code for this func
-}
+//func Count(s string) int {
+//	xs := strings.Fields(s)
+//	c := 0
+//	for i, _ := range xs {
+//		c = c + 1
+//}
